@@ -13,3 +13,5 @@ User Side Functions:
 Request of the User Panel (Semi-Functional): This section is the request form where users can submit their requests—for example, Borrow an Item, Request a New Item, or Return an Item. These requests should be visible to the admin for verification to ensure they are valid.
 
 User Transaction History Panel (Semi-Functional): This section contains the user's transaction history, which is viewable. It shows all their previous requests. Users can click on specific transactions to open a modal popup with the request details.
+
+Inventory Table Viewing (Functional): In this part, the Users can now view the inventory table, where they can see a list of available items. This functionality enables users to browse through the current inventory to check item availability before making requests.
